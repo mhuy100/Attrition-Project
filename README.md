@@ -1,4 +1,4 @@
-# CaseStudy1DDS
+# Attrition Project by Megan Huy
 # Executive Summary
 
 ## Overview
