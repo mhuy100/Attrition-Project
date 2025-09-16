@@ -15,7 +15,7 @@ Through exploratory data analysis and feature selection, the study identified th
 ### Percent Salary Hike
 <img src="Images/Box Plot.png" alt="Box Plot" width="400"/>
 ### Years at Company
-<img src="Images/Sale- Years vs Current.png" alt="Sale- Years vs Current" width="400"/> <img src="Images/HR Years vs Current.png" alt="HR Years vs Current" width="400"/> <img src="Images/Years vs Current R & d.png" alt="Years vs Current R & d" width="400"/>
+<img src="Images/Sale -Years vs Current .png" alt="Sale -Years vs Current .png" width="400"/> <img src="Images/HR Years vs Current.png" alt="HR Years vs Current" width="400"/> <img src="Images/Years vs Current R & d.png" alt="Years vs Current R & d" width="400"/>
 ### Monthly Income
 
 These factors were found to be the most predictive of whether an employee would stay or leave.
