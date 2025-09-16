@@ -1,4 +1,4 @@
-# Attrition Project by Megan Huy
+# FritoLays Attrition Project by Megan Huy
 # Executive Summary
 
 ## Overview
