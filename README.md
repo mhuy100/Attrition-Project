@@ -31,8 +31,11 @@ Through exploratory data analysis and feature selection, the study identified th
   <img src="Images/Years vs Current R & d.png" alt="Years vs Current R & d" width="400"/>
 </p>
 ### Monthly Income
+<p align="center">
+  <img src="Images/Scatterplot- Yes .png" alt="Scatterplot- Yes" width="400"/>
+</p>
 
-These factors were found to be the most predictive of whether an employee would stay or leave.
+<p>These factors were found to be the most predictive of whether an employee would stay or leave.</p>
 
 ## Model Performance
 The Naive Bayes and k-Nearest Neighbors (k-NN) models were tested for predicting attrition. The Naive Bayes model was chosen as the final model, achieving a sensitivity of 65% and a specificity of 62% on the validation set. These metrics meet the required minimum for identifying at-risk employees while minimizing false positives.
