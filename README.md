@@ -11,6 +11,7 @@ The analysis allows our stakeholders to find meaningful insight of attrition to 
 ## Significant Factors Related to Attrition
 Through exploratory data analysis and feature selection, the study identified the following factors as significantly related to attrition:
 - Over Time
+<img src="Images/Overtime Status - Yes.png" alt="Overtime Status - Yes" width="400"/>
 - Percent Salary Hike
 - Years at Company
 - Monthly Income
