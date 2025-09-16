@@ -6,6 +6,8 @@ The goal of this study was to investigate the factors contributing to employee a
 
 The analysis allows our stakeholders to find meaningful insight of attrition to help retain employees. This could improve employee satisfaction, employee growth, reduce burnout, and reduce cost or time to train new hires.
 
+![Attrition Status](Images/Status.png)
+
 ## Significant Factors Related to Attrition
 Through exploratory data analysis and feature selection, the study identified the following factors as significantly related to attrition:
 - Over Time
