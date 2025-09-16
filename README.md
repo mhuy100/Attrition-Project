@@ -11,11 +11,24 @@ The analysis allows our stakeholders to find meaningful insight of attrition to 
 ## Significant Factors Related to Attrition
 Through exploratory data analysis and feature selection, the study identified the following factors as significantly related to attrition:
 ### Over Time
-<img src="Images/Overtime Status - Yes.png" alt="Overtime Status - Yes" width="400"/>
+
+<p align="center">
+  <img src="Images/Overtime Status - Yes.png" alt="Overtime Status - Yes" width="400"/>
+</p>
+
 ### Percent Salary Hike
-<img src="Images/Box Plot.png" alt="Box Plot" width="400"/>
+
+<p align="center">
+  <img src="Images/Box Plot.png" alt="Box Plot" width="400"/>
+</p>
+
 ### Years at Company
-<img src="Images/Sale -Years vs Current .png" alt="Sale -Years vs Current .png" width="400"/> <img src="Images/HR Years vs. Current.png" alt="HR Years vs. Current.png" width="400"/> <img src="Images/Years vs Current R & d.png" alt="Years vs Current R & d" width="400"/>
+
+<p align="center">
+  <img src="Images/Sale -Years vs Current .png" alt="Sale -Years vs Current" width="400"/>
+  <img src="Images/HR Years vs. Current.png" alt="HR Years vs. Current" width="400"/>
+  <img src="Images/Years vs Current R & d.png" alt="Years vs Current R & d" width="400"/>
+</p>
 ### Monthly Income
 
 These factors were found to be the most predictive of whether an employee would stay or leave.
