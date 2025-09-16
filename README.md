@@ -11,6 +11,7 @@ The analysis allows our stakeholders to find meaningful insight of attrition to 
 
 ## Significant Factors Related to Attrition
 Through exploratory data analysis and feature selection, the study identified the following factors as significantly related to attrition:
+
 ### Over Time
 
 <p align="center">
@@ -35,7 +36,7 @@ Through exploratory data analysis and feature selection, the study identified th
 
 <p align="center">
   <img src="Images/Scatterplot- Yes.png" alt="Scatterplot- Yes" width="400"/>
-  <img src="Images/Scatterplot- No.png" alt="Scatterplot- No" width="400"/>
+  <img src="Images/Scatterplot - No.png" alt="Scatterplot - No" width="400"/>
 </p>
 
 <p>These factors were found to be the most predictive of whether an employee would stay or leave.</p>
