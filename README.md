@@ -5,8 +5,9 @@
 The goal of this study was to investigate the factors contributing to employee attrition within the Frito Lay Company. By analyzing various employee attributes, the study aimed to develop a predictive model that identifies employees at risk of leaving, providing insights to improve retention strategies.
 
 The analysis allows our stakeholders to find meaningful insight of attrition to help retain employees. This could improve employee satisfaction, employee growth, reduce burnout, and reduce cost or time to train new hires.
-
+<p align="center">
 <img src="Images/Status.png" alt="Status" width="400"/>
+</p>
 
 ## Significant Factors Related to Attrition
 Through exploratory data analysis and feature selection, the study identified the following factors as significantly related to attrition:
