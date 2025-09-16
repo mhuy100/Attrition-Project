@@ -32,7 +32,7 @@ Through exploratory data analysis and feature selection, the study identified th
 </p>
 ### Monthly Income
 <p align="center">
-  <img src="Images/Scatterplot- Yes .png" alt="Scatterplot- Yes" width="400"/>
+  <img src="Images/Scatterplot- Yes.png" alt="Scatterplot- Yes" width="400"/>
 </p>
 
 <p>These factors were found to be the most predictive of whether an employee would stay or leave.</p>
