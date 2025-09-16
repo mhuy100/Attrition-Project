@@ -30,9 +30,12 @@ Through exploratory data analysis and feature selection, the study identified th
   <img src="Images/HR Years vs. Current.png" alt="HR Years vs. Current" width="400"/>
   <img src="Images/Years vs Current R & d.png" alt="Years vs Current R & d" width="400"/>
 </p>
+
 ### Monthly Income
+
 <p align="center">
   <img src="Images/Scatterplot- Yes.png" alt="Scatterplot- Yes" width="400"/>
+  <img src="Images/Scatterplot- No.png" alt="Scatterplot- No" width="400"/>
 </p>
 
 <p>These factors were found to be the most predictive of whether an employee would stay or leave.</p>
