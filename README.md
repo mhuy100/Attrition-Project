@@ -27,9 +27,9 @@ Through exploratory data analysis and feature selection, the study identified th
 ### Years at Company
 
 <p align="center">
-  <img src="Images/Sale -Years vs Current .png" alt="Sale -Years vs Current" width="250"/>
-  <img src="Images/HR Years vs. Current.png" alt="HR Years vs. Current" width="250"/>
-  <img src="Images/Years vs Current R & d.png" alt="Years vs Current R & d" width="250"/>
+  <img src="Images/Sale -Years vs Current .png" alt="Sale -Years vs Current" width="275"/>
+  <img src="Images/HR Years vs. Current.png" alt="HR Years vs. Current" width="275"/>
+  <img src="Images/Years vs Current R & d.png" alt="Years vs Current R & d" width="275"/>
 </p>
 
 ### Monthly Income
